@@ -67,7 +67,7 @@ Windows:
 
 ```./VanitySearch.exe -gpuId 0 -start 100000000000000000 -range 68 -random 19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG```
 
-```./VanitySearch.exe -gpuId 0 -start 3BA89530000000000 -range 41 -backup 1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ ```
+```./VanitySearch.exe -gpuId 0 -start 3BA89530000000000 -range 41 -backup bc1qcg7sakly3ct3q76s3wv7u7evg06q36dgkt7h8s ```
 
 Linux
 
